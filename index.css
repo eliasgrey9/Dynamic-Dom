@@ -7,25 +7,25 @@ height: auto;
 
 .container{
 display: flex;
-justify-content: space-around;
-width: 20vmin;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+align-content: center;
+width: 30vmin;
 height: auto;
 }
 
 input{
 display: flex;
 justify-content: center;
-padding:10px;
-font-size: 2vmin;
-margin:1vmin;
-width:22vmin;
+padding:17px;
+font-size: 5vmin;
+width:60vmin;
 }
 
 button{
-width:10vmin;
-height: auto;
-}
-
-li{
-
+font-size: 5vmin;
+width:70vmin;
+height: 15vmin;
+margin-top:1vmin;
 }
