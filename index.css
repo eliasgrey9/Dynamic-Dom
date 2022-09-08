@@ -1,0 +1,31 @@
+body{
+display: flex;
+justify-content: center;
+width:100%;
+height: auto;
+}
+
+.container{
+display: flex;
+justify-content: space-around;
+width: 20vmin;
+height: auto;
+}
+
+input{
+display: flex;
+justify-content: center;
+padding:10px;
+font-size: 2vmin;
+margin:1vmin;
+width:22vmin;
+}
+
+button{
+width:10vmin;
+height: auto;
+}
+
+li{
+
+}
